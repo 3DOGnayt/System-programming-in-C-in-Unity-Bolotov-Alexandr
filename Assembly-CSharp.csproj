@@ -53,9 +53,12 @@
     <UnityVersion>2020.3.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Unit.cs" />
-    <Compile Include="Assets\Scripts\Unit2.cs" />
-    <Compile Include="Assets\Scripts\Unit3.cs" />
+    <Compile Include="Assets\Scripts\Jobs System\Main.cs" />
+    <Compile Include="Assets\Scripts\Coroutines, Async, Await\Unit3.cs" />
+    <Compile Include="Assets\Scripts\Coroutines, Async, Await\Unit.cs" />
+    <Compile Include="Assets\Scripts\Coroutines, Async, Await\Unit2.cs" />
+    <Compile Include="Assets\Scripts\Jobs System\Main2.cs" />
+    <Compile Include="Assets\Scripts\Jobs System\Main3.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
